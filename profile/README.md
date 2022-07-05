@@ -1,2 +1,2 @@
 ## About Theoretical AI
-We are an AI consulting company with strong engineering background.
+Empower Every Individual and Organization to Enable AI-powered Business
