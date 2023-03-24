@@ -1,0 +1,3 @@
+- Create bug_report.yml template under ISSUE_TEMPLATE dir
+- Consider creating push/pull request template
+- https://docs.github.com/en/commnities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
